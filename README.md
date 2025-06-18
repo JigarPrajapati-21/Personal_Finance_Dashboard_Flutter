@@ -27,6 +27,7 @@ A Flutter application for managing personal finances, tracking income and expens
 
 *To add a video demo, record a GIF or a short video of your app in action, add it to the `assets` folder, and update the path below.*
 
+![App Demo]([assets/screenrecording/video1.mp4](https://res.cloudinary.com/dig6jbzmj/video/upload/v1750237214/video1_vtd4ww.mp4))
 ![App Demo](assets/screenrecording/video1.mp4)
 
 ## 🚀 Setup and Installation
