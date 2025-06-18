@@ -14,7 +14,7 @@ A Flutter application for managing personal finances, tracking income and expens
 
 *To add your screenshots, create an `assets/images` folder in your project, add your images there, and then update the paths below.*
 
-| Splash Screen | Dashboard |    Dashboard       | Add Transaction | Transactions List |
+| Splash Screen | Dashboard |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| Add Transaction | Transactions List |
 |:---:|:---:|:---:|:---:|:---:|
 | ![Dashboard](assets/screenshots/1.jpeg) | ![Transactions](assets/screenshots/2.jpeg) | ![Add Transaction](assets/screenshots/3.jpeg) | ![Dashboard](assets/screenshots/4.jpeg) | ![Transactions](assets/screenshots/5.jpeg) | 
 
