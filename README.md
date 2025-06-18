@@ -18,7 +18,7 @@ A Flutter application for managing personal finances, tracking income and expens
 |:---:|:---:|:---:|:---:|:---:|
 | ![Dashboard](assets/screenshots/1.jpeg) | ![Transactions](assets/screenshots/2.jpeg) | ![Add Transaction](assets/screenshots/3.jpeg) | ![Dashboard](assets/screenshots/4.jpeg) | ![Transactions](assets/screenshots/5.jpeg) | 
 
-|         | Add Transactions | Categories | Add New Category |            |
+|⠀⠀⠀⠀⠀⠀⠀⠀| Add Transactions | Categories | Add New Category |⠀⠀⠀⠀⠀⠀⠀⠀|
 |:---:|:---:|:---:|:---:|:---:|
 | ![Dashboard](assets/screenshots/6.jpeg) | ![Transactions](assets/screenshots/7.jpeg) | ![Add Transaction](assets/screenshots/8.jpeg) | ![Dashboard](assets/screenshots/9.jpeg) | ![Transactions](assets/screenshots/10.jpeg) |
 
